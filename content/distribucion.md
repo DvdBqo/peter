@@ -55,7 +55,7 @@ Como distribuidor farmacéutico en todo el Archipiélago, buscamos constantement
    
 {{<cols col="col-sm-6 col-md-6 text-center" >}}
   
-<img src="/img/experto.png" alt="image" style="max-width: 100%; height: auto;">
+<img src="/experto.png" alt="image" style="max-width: 100%; height: auto;">
  
 {{</cols>}}
 {{</row>}}
