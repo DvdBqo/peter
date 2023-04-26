@@ -1,10 +1,10 @@
 +++
 title = "Distribución"
-date = "2015-06-24T13:50:46+02:00"
+date = ""
 tags = [""]
 categories = [""]
 description = ""
-authors = ["David Baquero"]
+authors = [""]
 +++
 
 {{<tex sty="sans-serif" size="1.2em">}}
@@ -17,7 +17,7 @@ authors = ["David Baquero"]
 {{<row>}}
 {{<cols col="col-sm-12 col-md-6 text-center">}}
 
-<img src="DvdBqo/webpeter/img/logo.png" alt="image" style="max-width: 100%; height: auto;">
+<img src="/pack1.png" alt="image" style="max-width: 100%; height: auto;">
 
 {{</cols>}}
 
