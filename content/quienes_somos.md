@@ -17,7 +17,7 @@ img = "/img/imagen/logoalch11.png"
   {{<cols col="col-sm-12 col-md-6 text-center" >}}
 {{<markdown>}}
 
-  ![image](/img/mph1.png)
+  ![image](img/mph1.png)
 
 {{</markdown>}}
 
