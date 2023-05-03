@@ -35,11 +35,9 @@ Además, nos enfocamos en poner en valor cada uno de nuestros productos a travé
 {{</tex>}}   
 {{</cols>}}
 {{</row>}}
-{{</content>}}
 
-{{<content>}}
 {{<row>}}
-{{<cols col="col-sm-6 col-md-5 text-justify" padding="20px">}}
+{{<cols col="col-sm-6 col-md-5 text-justify" padding="10px">}}
 {{<tex sty="sans-serif" size="1.2em">}}
 
 Nuestro equipo comercial cuenta con una formación académica superior y una amplia experiencia en el sector, lo que nos permite ofrecer a nuestros clientes detalles técnicos y conceptos de vanguardia en el mercado.

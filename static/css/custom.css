@@ -2942,6 +2942,7 @@ fieldset[disabled] .btn-template-primary.active {
   max-width: 200px;
   max-height: 180px;
   margin-top: -80px;
+  margin-left: 80px;
 }
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
