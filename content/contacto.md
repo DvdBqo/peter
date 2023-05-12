@@ -12,3 +12,5 @@ Apreciamos la calidad y la integridad en nuestros productos y estamos buscando a
 
 Nuestro equipo está disponible para responder a cualquier pregunta o inquietud que pueda tener, y nos esforzamos por responder a todas las consultas de manera rápida y eficiente. ¡Esperamos saber de ti pronto!
 {{</tex>}}
+
+{{< contacto >}}
