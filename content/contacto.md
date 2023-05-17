@@ -3,14 +3,36 @@ title = "Contacto"
 id = "contact"
 +++
 
+
+{{<cols col="col-sm-12 col-md-6 ">}}
 {{<tex sty="sans-serif" size="1.2em">}}
-# ¿Les gustaría trabajar con nosotros?
 
-Nos encanta trabajar con proveedores de materias primas y fabricantes de productos farmacéuticos de alta calidad. Si estás interesado en convertirte en un proveedor o fabricante asociado, por favor ponte en contacto con nosotros a través del formulario de contacto en nuestro sitio web o mediante correo electrónico directamente a nuestra dirección de contacto.
+Puedes contactar con nosotros pora cualquiera de las siguientes opcioiones.Te contestarmos lo antes posible.
 
-Apreciamos la calidad y la integridad en nuestros productos y estamos buscando asociaciones con proveedores y fabricantes que compartan nuestros valores y compromiso con la excelencia. Esperamos con interés escuchar de ti y explorar cómo podemos colaborar para ofrecer productos farmacéuticos de alta calidad a nuestros clientes.
 
-Nuestro equipo está disponible para responder a cualquier pregunta o inquietud que pueda tener, y nos esforzamos por responder a todas las consultas de manera rápida y eficiente. ¡Esperamos saber de ti pronto!
+**¿estás interesado en que comercialicemos tu marca?**
+
+Si eres un laboratorio y quieres tener el protagonismo y implatación en el terrritorio canario, no dudes en enviarnos un correo electónico.
+
+pedro.melian@melhealthandpharm.com 
+
+{{</tex>}}
+{{</cols>}}
+
+{{<cols col="col-sm-12 col-md-6 ">}}
+
+{{<tex sty="sans-serif" size="1.2em">}}
+
+**¿Buscas inoformación sobre algunos de nuesros productos?**
+
+
+Si eres cliente o posible interesada/o en introducir alguna de nuestras líneas en tu punto de venta, puedes contactar con nosotros por medio de las siguientes opciones.
+
+Por correo electrico a pedro.melian@melhealthandpharm.com 
+
+O rellena el siguiente formulario:
+
 {{</tex>}}
 
 {{< contacto >}}
+{{</cols>}}

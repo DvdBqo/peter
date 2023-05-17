@@ -27,11 +27,15 @@ img = "/img/imagen/logoalch11.png"
    {{<cols col="col-sm-12 col-md-6 text-center text-justify" padding="50px">}}
    {{<tex sty="sans-serif" size="1.2em">}}
 
-  **Melhealthandpharm** es una empresa fundada en el año 2022 por Pedro Daniel Melian Peña con el objetivo de crear una red de distribución de productos y servicios farmacéuticos de alta calidad que aporten practicidad, efectividad y rentabilidad tanto a laboratorios como a farmacias.
-
-  Desde el primer día, nuestra filosofía ha sido cumplir con los regímenes de satisfacción del consumidor final. Por ello, nos aseguramos de que cualquier producto de nuestra empresa cumpla con los más altos estándares de calidad.
-
-  Nos enorgullece ofrecer exclusividad y valor a los laboratorios con los que colaboramos, así como una solución inmediata a todos nuestros clientes. En Melhealthandpharm, estamos comprometidos con la introducción de un nuevo concepto de empresa distribuidora del sector farmacéutico.
+   **Melhealthandpharm** nace de la idea de su fundador, Pedro Daniel Melian Peña, de crear una
+   red de distribución de productos y servicios farmacéuticos que aporten practicidad, efectividad
+   y rentabilidad tanto a laboratorios como a farmacias. A su vez, la filosofía que se instauró
+   desde el primer día, fue la de que cualquier producto de nuestra empresa cumpliera los
+   regímenes de satisfacción del consumidor final.
+   
+   Es una empresa que nace en el año 2022 con la misión de darles una exclusividad y valor a los
+   laboratorios con los que colaboramos, y una solución inmediata a todos nuestros clientes, para
+   introducir un nuevo concepto de empresa distribuidora del sector.
    
    {{</tex>}}   
    {{</cols>}}

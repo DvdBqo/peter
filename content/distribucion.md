@@ -27,9 +27,11 @@ authors = [""]
 {{<cols col="col-sm-12 col-md-5 text-justify" padding="90px">}}
 {{<tex sty="sans-serif" size="1.2em">}}
   
-En Melhealthandpharm ofrecemos un servicio de distribución farmacéutica integral, con entregas rápidas en 24-48 horas en función de la localización del cliente.
-
-Además, nos enfocamos en poner en valor cada uno de nuestros productos a través de una presentación exhaustiva y detallada, y trabajamos en estrecha colaboración con nuestros clientes para garantizar su satisfacción y cumplir con los más altos estándares de calidad.
+En Melhealthandpharm damos un servicio 360º , desde la entrega de pedidos de 24 a 48 horas
+en función de la localización del cliente, a una presentación exhaustiva de todos nuestros
+productos para poner en valor cada uno de ellos, como la formación de todo el equipo de
+trabajo para que los conceptos que quieran transmitir los diferentes laboratorio pueda llegar
+de primera mano a nuestro clientes.
 
    
 {{</tex>}}   
@@ -40,9 +42,10 @@ Además, nos enfocamos en poner en valor cada uno de nuestros productos a travé
 {{<cols col="col-sm-6 col-md-5 text-justify" padding="10px">}}
 {{<tex sty="sans-serif" size="1.2em">}}
 
-Nuestro equipo comercial cuenta con una formación académica superior y una amplia experiencia en el sector, lo que nos permite ofrecer a nuestros clientes detalles técnicos y conceptos de vanguardia en el mercado.
+Somos una empresa que trabaja en todo el Archipiélago y que desde el primer día ha buscado
+crecer de la mano de sus clientes. 
 
-Como distribuidor farmacéutico en todo el Archipiélago, buscamos constantemente crecer y evolucionar de la mano de nuestros clientes y proveedores, manteniendo siempre la filosofía de satisfacción del consumidor final en todos nuestros productos y servicios.
+Tenemos un equipo comercial que cuenta con una formación académica superior, perfectamente capacitados para transmitir detalles técnicos y conceptos que cada día requieren de una formación superior.
 
 
 {{</tex>}} 
