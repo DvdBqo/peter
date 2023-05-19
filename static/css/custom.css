@@ -1,4 +1,6 @@
 /* your styles go here */
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+
 /* Themed colors */
 :root {
   --primary-accent: #4fbfa8;
@@ -1737,17 +1739,19 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #heading-breadcrumbs {
   background: url('../img/texture-turquoise.png') center center repeat;
-  padding: 20px 0;
+  padding: 1px 0;
   margin-bottom: 40px;
+  max-height: 110px;
 }
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
+  font-family: 'Gochi Hand', cursive;
   color: #333333;
   text-transform: uppercase;
-  font-size: 30px;
-  font-weight: 700;
+  font-size: 42px;
+  font-weight: 500;
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {

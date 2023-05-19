@@ -3,8 +3,7 @@ title = "Contacto"
 id = "contact"
 +++
 
-
-{{<cols col="col-sm-12 col-md-6 ">}}
+{{<cols col="col-sm-12 col-md-5 text-justify " color="gainsboro" border="20px">}}
 {{<tex sty="sans-serif" size="1.2em">}}
 
 Puedes contactar con nosotros pora cualquiera de las siguientes opcioiones.Te contestarmos lo antes posible.
@@ -19,7 +18,11 @@ pedro.melian@melhealthandpharm.com
 {{</tex>}}
 {{</cols>}}
 
-{{<cols col="col-sm-12 col-md-6 ">}}
+
+{{<cols col="col-sm-12 col-md-1 ">}}
+{{</cols>}}
+
+{{<cols col="col-sm-12 col-md-5 text-justify" color="gainsboro" border="20px">}}
 
 {{<tex sty="sans-serif" size="1.2em">}}
 
@@ -35,4 +38,6 @@ O rellena el siguiente formulario:
 {{</tex>}}
 
 {{< contacto >}}
+
+<br>
 {{</cols>}}
