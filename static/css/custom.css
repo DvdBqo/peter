@@ -1,5 +1,5 @@
 /* your styles go here */
-@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
 /* Themed colors */
 :root {
@@ -1747,8 +1747,8 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
-  font-family: 'Gochi Hand', cursive;
-  color: #333333;
+  font-family: 'Courgette', cursive;
+  color: #fdfdfd;
   text-transform: uppercase;
   font-size: 42px;
   font-weight: 500;

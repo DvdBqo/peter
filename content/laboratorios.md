@@ -28,6 +28,7 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
 {{</for_lab>}}
 
+{{<cols color="honeydew" border="20px">}}
 
 {{<for_lab>}}
 
@@ -36,8 +37,8 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
    AlchemLife es una empresa que se dedica a la producción y venta de suplementos alimenticios y productos de salud natural. Sus productos se componen de ingredientes cuidadosamente seleccionados, incluyendo hierbas, especias y otros elementos naturales, como el jengibre, la cúrcuma y la canela, que se han utilizado durante siglos en todo el mundo para ayudar a mejorar la salud y el bienestar. 
    
    [**Saber más**](https://www.alchemlife.es/)
-
 {{</for_lab>}}
+{{</cols>}}
 
 {{<for_lab>}}
 
@@ -45,6 +46,8 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
    
 
 {{</for_lab>}}
+
+{{<cols color="cyan" border="20px">}}
 
 {{<for_lab>}}
 
@@ -56,4 +59,5 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
   
 {{</for_lab>}}
-  
+ {{</cols>}}
+ 
