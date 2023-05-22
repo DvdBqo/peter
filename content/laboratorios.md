@@ -6,7 +6,7 @@ categories = [""]
 
 +++
 
-{{<tex sty="sans-serif" size="1.2em">}}
+{{<tex sty="'Lora', serif" size="1.2em">}}
 # Laboratorios - Melhealthandpharm
 
 En Melhealthandpharm contamos con laboratorios que comparten nuestra visión y objetivos, donde el crecimiento y el mejor servicio al cliente son obligaciones fundamentales.

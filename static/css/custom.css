@@ -1,5 +1,6 @@
 /* your styles go here */
-@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Josefin+Sans:wght@500;600&family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Ysabeau:ital,wght@0,400;0,600;1,300;1,500&display=swap');
 
 /* Themed colors */
 :root {
@@ -324,7 +325,7 @@ ul.list-style-none {
   font-weight: bold;
   letter-spacing: 0.08em;
   border-top: solid 5px transparent;
-  font-family: sans-serif;
+  font-family: 'Courgette', cursive;
 }
 .navbar ul.nav > li > a:hover {
   border-top: solid 5px var(--primary-accent);
@@ -1747,7 +1748,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
-  font-family: 'Courgette', cursive;
+  font-family: 'Josefin Sans', sans-serif;;
   color: #fdfdfd;
   text-transform: uppercase;
   font-size: 42px;
@@ -3385,14 +3386,14 @@ h5,
 h6,
 .h1,
 .h2{
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family:'Lora', serif,'Ysabeau', sans-serif,sans-serif;
   color: #15a586;
 }
 .h3,
 .h4,
 .h5,
 .h6 {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family:'Lora', serif,'Ysabeau', sans-serif,sans-serif;
   font-weight: 900;
   line-height: 1.1;
   color: #333333;

@@ -5,7 +5,7 @@ id = "contact"
 
 {{<cols col="col-sm-12 col-md-5 text-justify " color="lightcyan" border="20px">}}
 <br>
-{{<tex sty="sans-serif" size="1.2em">}}
+{{<tex sty="'Lora', serif" size="1.2em">}}
 
 Puedes contactar con nosotros pora cualquiera de las siguientes opcioiones.Te contestarmos lo antes posible.
 
@@ -27,7 +27,7 @@ Si eres un laboratorio y quieres tener el protagonismo y implatación en el terr
 
 {{<cols col="col-sm-12 col-md-5 text-justify" color="paleturquoise" border="20px">}}
 <br>
-{{<tex sty="sans-serif" size="1.2em">}}
+{{<tex sty="'Lora', serif" size="1.2em">}}
 
 **¿Buscas inoformación sobre algunos de nuesros productos?**
 

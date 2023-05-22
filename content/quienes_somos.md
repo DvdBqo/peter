@@ -25,7 +25,7 @@ img = "/img/imagen/logoalch11.png"
    
 
    {{<cols col="col-sm-12 col-md-6 text-justify text-center" padding="50px">}}
-   {{<tex sty="sans-serif" size="1.2em">}}
+   {{<tex sty="'Lora', serif" size="1.2em">}}
 
    **Melhealthandpharm** nace de la idea de su fundador, Pedro Daniel Melian Peña, de crear una
    red de distribución de productos y servicios farmacéuticos que aporten practicidad, efectividad

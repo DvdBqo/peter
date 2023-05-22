@@ -19,7 +19,7 @@ authors = [""]
 
 <br><img src="/distribucion1.png" alt="image" style="max-width: 100%; height: auto;"><br>
 
-{{<tex sty="sans-serif" size="1.2em">}}
+{{<tex sty="'Lora', serif" size="1.2em">}}
 
 Somos una empresa que trabaja en todo el Archipiélago y que desde el primer día ha buscado
 crecer de la mano de sus clientes. 
@@ -37,7 +37,7 @@ Tenemos un equipo comercial que cuenta con una formación académica superior, p
 
 {{<cols col="col-sm-12 col-md-5 text-justify">}}
 <br>
-{{<tex sty="sans-serif" size="1.2em">}}
+{{<tex sty="'Lora', serif" size="1.2em">}}
   
 En **Melhealthandpharm** damos un servicio 360º , desde la entrega de pedidos de 24 a 48 horas
 en función de la localización del cliente, a una presentación exhaustiva de todos nuestros
