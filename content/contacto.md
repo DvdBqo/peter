@@ -7,14 +7,21 @@ id = "contact"
 <br>
 {{<tex sty="'Lora', serif" size="1.2em">}}
 
-Puedes contactar con nosotros pora cualquiera de las siguientes opcioiones.Te contestarmos lo antes posible.
+**¿Interesado en que comercialicemos tu marca?**
 
+Si eres un laboratorio o proveedor y quieres tener el protagonismo e implatación en el terrritorio canario queremos saber de tí.
 
-**¿estás interesado en que comercialicemos tu marca?**
+En **Melhealthandpharm**, estamos comprometidos a trabajar con socios confiables y de calidad para brindar los mejores productos a nuestros clientes.
 
-Si eres un laboratorio y quieres tener el protagonismo y implatación en el terrritorio canario, no dudes en enviarnos un correo electónico.
+ No dudes en enviarnos un correo electónico , nos pondremos en contacto contigo lo antes posible..
 
 [pedro.melian@melhealthandpharm.com](mailto:pedro.melian@melhealthandpharm.com)
+
+Gracias por tu interés,
+
+¡Esperamos colaborar juntos en un futuro cercano!
+
+
 
 {{</tex>}}
 <br>
@@ -29,14 +36,12 @@ Si eres un laboratorio y quieres tener el protagonismo y implatación en el terr
 <br>
 {{<tex sty="'Lora', serif" size="1.2em">}}
 
-**¿Buscas inoformación sobre algunos de nuesros productos?**
+**¿Buscas más información sobre algunos de nuestros productos?**
 
 
-Si eres cliente o posible interesada/o en introducir alguna de nuestras líneas en tu punto de venta, puedes contactar con nosotros por medio de las siguientes opciones.
+Si eres cliente o posible interesada/o en introducir alguna de nuestras líneas en tu punto de venta, nos gustaría responder a todas tus preguntas y consultas. 
 
-Por correo electrico a pedro.melian@melhealthandpharm.com 
-
-O rellena el siguiente formulario:
+Por favor, completa el siguiente formulario y uno de nuestros representantes se pondrá en contacto contigo a la brevedad.
 
 {{</tex>}}
 
