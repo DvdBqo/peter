@@ -47,7 +47,7 @@ img = "/img/imagen/logoalch11.png"
   
   {{<tex sty="sans-serif" size="0.8em">}}
   
-  ***Farmacéutico y fundador de MHaP***
+  ***Farmacéutico y fundador de MH&P***
   
   ***Pedro Daniel Melian Peña***
 

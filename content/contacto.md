@@ -13,7 +13,7 @@ Si eres un laboratorio o proveedor y quieres tener el protagonismo e implatació
 
 En **Melhealthandpharm**, estamos comprometidos a trabajar con socios confiables y de calidad para brindar los mejores productos a nuestros clientes.
 
- No dudes en enviarnos un correo electónico , nos pondremos en contacto contigo lo antes posible..
+ No dudes en enviarnos un correo electónico , nos pondremos en contacto contigo lo antes posible.
 
 [pedro.melian@melhealthandpharm.com](mailto:pedro.melian@melhealthandpharm.com)
 
@@ -41,7 +41,7 @@ Gracias por tu interés,
 
 Si eres cliente o posible interesada/o en introducir alguna de nuestras líneas en tu punto de venta, nos gustaría responder a todas tus preguntas y consultas. 
 
-Por favor, completa el siguiente formulario y uno de nuestros representantes se pondrá en contacto contigo a la brevedad.
+Por favor, completa el siguiente formulario y uno de nuestros representantes se pondrá en contacto contigoen la máxima brevedad.
 
 {{</tex>}}
 
