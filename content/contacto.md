@@ -3,7 +3,7 @@ title = "Contacto"
 id = "contact"
 +++
 
-{{<cols col="col-sm-12 col-md-5 text-justify " color="lightcyan" border="20px">}}
+{{<cols col="col-sm-12 col-md-5 text-justify " color="honeydew" border="20px">}}
 <br>
 {{<tex sty="'Lora', serif" size="1.2em">}}
 
@@ -32,7 +32,7 @@ Gracias por tu interés,
 <br>
 {{</cols>}}
 
-{{<cols col="col-sm-12 col-md-5 text-justify" color="paleturquoise" border="20px">}}
+{{<cols col="col-sm-12 col-md-5 text-justify" color="honeydew" border="20px">}}
 <br>
 {{<tex sty="'Lora', serif" size="1.2em">}}
 

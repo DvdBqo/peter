@@ -28,7 +28,7 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
 {{</for_lab>}}
 
-{{<cols color="honeydew" border="20px">}}
+
 
 {{<for_lab>}}
 
@@ -38,7 +38,7 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
    
    [**Saber más**](https://www.alchemlife.es/)
 {{</for_lab>}}
-{{</cols>}}
+
 
 {{<for_lab>}}
 
@@ -47,7 +47,6 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
 {{</for_lab>}}
 
-{{<cols color="cyan" border="20px">}}
 
 {{<for_lab>}}
 
@@ -59,5 +58,4 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
   
 {{</for_lab>}}
- {{</cols>}}
  
