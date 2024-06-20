@@ -59,3 +59,22 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
   
 {{</for_lab>}}
  
+{<for_lab>}}
+
+
+   
+
+{{</for_lab>}}
+
+
+{{<for_lab>}}
+
+[![image](/img/clients/halley_logo.png)](https://www.halleyrepelente.com/es)
+
+  Halley produce una gama de repelentes de mosquitos y piojos, destacándose por su eficacia y seguridad. Sus productos incluyen repelentes con extractos naturales, formulaciones especiales para niños y opciones sin perfume para toda la familia. Además, Halley ofrece bálsamos para alivio de picaduras y tratamientos pediculicidas que eliminan los piojos sin insecticidas. Con su enfoque en ingredientes naturales y testados dermatológicamente, Halley garantiza protección confiable y cuidado para todos sus usuarios.
+
+  [**Saber más**](https://www.halleyrepelente.com/es)
+
+  
+{{</for_lab>}}
+ 
