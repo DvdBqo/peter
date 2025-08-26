@@ -205,7 +205,7 @@ pluralizelisttitles = false
 
 [params.features]
     enable = true
-    cols = 5 # Default: 3, Available values 2,3,4,6
+    cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
