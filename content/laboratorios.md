@@ -77,4 +77,41 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
   
 {{</for_lab>}}
+
+{{<for_lab>}}
+
+
+   
+
+{{</for_lab>}}
+
+{{<for_lab>}}
+
+[![image](/img/clients/sendo_320x84.png)](https://sendoconcept.es/)
+
+  Sendo, cosmética capilar vegana y biotecnológica que cuida tu cabello y el planeta.
+En Sendo desarrollamos fórmulas veganas y sostenibles con 97–98% ingredientes de origen natural, Nickel Tested (<1 ppm) y sin test en animales. Gracias a la biotecnología, extraemos solo los componentes beneficiosos de las plantas (sin alterar ecosistemas ni usar ingeniería genética) y cuidamos el ciclo del producto, incluido el packaging reciclable.
+
+  [**Saber más**](https://sendoconcept.es/)
+
+  
+{{</for_lab>}}
+
+{{<for_lab>}}
+
+
+   
+
+{{</for_lab>}}
+
+{{<for_lab>}}
+
+[![image](/img/clients/gemavip_320x84.png)](https://gemavip.com/es/?srsltid=AfmBOorsaMyPU1PCG7coF0e8OKX8BdCkhgHcXR6Y0o3rmg_tWDHmFEPA)
+
+ Gemavip, laboratorio de cosmética oral que une ciencia del ozono y naturaleza para una boca sana, cada día.En Gemavip investigamos y desarrollamos soluciones de salud bucodental basadas en ozonoterapia y activos de origen natural. Nuestro enfoque clínico prioriza eficacia, seguridad y suavidad para el cuidado diario y el apoyo a profesionales. Innovación responsable para sonrisas sanas.
+
+  [**Saber más**](https://gemavip.com/es/?srsltid=AfmBOorsaMyPU1PCG7coF0e8OKX8BdCkhgHcXR6Y0o3rmg_tWDHmFEPA)
+
+  
+{{</for_lab>}}
  
